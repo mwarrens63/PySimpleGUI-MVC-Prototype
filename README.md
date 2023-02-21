@@ -1,2 +1,2 @@
 # PySimpleGUI-MVC-Prototyp
-This code demonstrates using PySimpleGUI and the peewee ORM to develop an MVC prototype system.
+This code demonstrates using PySimpleGUI and the peewee ORM to develop an MVC demo system.
