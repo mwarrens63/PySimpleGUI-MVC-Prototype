@@ -1,5 +1,2 @@
 PySimpleGui
-pysimplesql
-psgdemos
 peewee
-PyPubSub
