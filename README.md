@@ -1,5 +1,5 @@
 # PySimpleGUI-MVC-Prototype
-This code demonstrates using PySimpleGUI and the peewee ORM to develop an MVC flight reservations demo system.  Most of the GUI (reservationsView) code was initially written while following a very good YouTube tutorial provided by The CS Classroom (Intro To PySimpleGUI: An 8-Part Tutorial Series (with databases)).  After completing tutorials 1 - 6, I decided to redo the tutorial as an MVC design.  
+This code demonstrates using PySimpleGUI and the peewee ORM to develop an MVC flight reservations demo system.  Most of the GUI (reservationsView) code was initially written while following a very good YouTube tutorial provided by The CS Classroom (Intro To PySimpleGUI: An 8-Part Tutorial Series (with databases)).  After completing tutorials 1-6, I decided to rewrite the tutorial code as an MVC design using Python classes to implement the reservations View.  
 
 The View is implemented as three Python classes using PySimpleGUI.  The view displays forms and tables for entering, displaying, and editing reservations data, and it validates all user input.  I have not seen other examples on the Web of using PySimpleGUI within Python classes, but I found it much more convenient than a procedural approach.
 
