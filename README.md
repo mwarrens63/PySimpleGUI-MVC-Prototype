@@ -5,6 +5,6 @@ The View is implemented as three Python classes using PySimpleGUI.  The view dis
 
 The Model is a Python module that uses the peewee ORM connected to a Sqlite database.  It uses the peewee ORM classes/methods to create and manage Sqlite tables for the reservations database.  It also implements low level CRUD methods for the reservations database.
 
-The Controller is a Python module that connects the View and Model.  The Controller provides high-level CRUD methods connecting the View to the Model.  It also updates the View whenever the Model has changed after an update or deletion.
+The Controller is a Python module that connects the View and Model.  The Controller provides high-level CRUD methods connecting the View to the Model.  It converts the data retrieved from the Model to a format that is usable by the View.  It also updates the View whenever the Model has changed after an update or deletion.
 
 A detailed description of this code is provided in the Wiki pages above.
