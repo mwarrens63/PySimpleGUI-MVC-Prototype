@@ -7,6 +7,6 @@ The Model is a Python module that uses the peewee ORM connected to a Sqlite data
 
 The Controller is a Python module that connects the View and Model.  The Controller provides high-level CRUD methods connecting the View to the Model.  It converts the data retrieved from the Model to a format that is usable by the View.  For example, the PySimpleGUI tree widget requires data formatted as TreeData.  The Controller also updates the View whenever the Model has changed after an update or deletion.
 
-The code is found here: <a href>https://github.com/mwarrens63/PySimpleGUI-MVC-Prototype<a>
+The code is found here: <a href="https://github.com/mwarrens63/PySimpleGUI-MVC-Prototype">Code</a>
 
-A detailed description of this code is provided in the Wiki pages found here: https://github.com/mwarrens63/PySimpleGUI-MVC-Prototype/wiki.
+A detailed description of this code is provided in the Wiki pages found here: <a href="https://github.com/mwarrens63/PySimpleGUI-MVC-Prototype/wiki">Wiki</a>
