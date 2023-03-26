@@ -9,4 +9,4 @@ The Controller is a Python module that connects the View and Model.  The Control
 
 The code is found here: https://github.com/mwarrens63/PySimpleGUI-MVC-Prototype
 
-A detailed description of this code is provided in the Wiki pages found here: .
+A detailed description of this code is provided in the Wiki pages found here: https://github.com/mwarrens63/PySimpleGUI-MVC-Prototype/wiki.
